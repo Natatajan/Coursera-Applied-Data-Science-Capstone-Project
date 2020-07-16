@@ -1,2 +1,1 @@
-# Coursera_Capstone
-Coursera capstone project 1
+# Applied Data Science Capstone Project - IBM
